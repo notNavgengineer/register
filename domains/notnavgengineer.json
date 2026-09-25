@@ -1,0 +1,7 @@
+{
+  "domain": "notnavgengineer.is-really.cool",
+  "target": "notnavgengineer-portfolio.vercel.app",
+  "records": {
+    "CNAME": ["notnavgengineer-portfolio.vercel.app"]
+  }
+}   
