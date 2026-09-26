@@ -1,0 +1,8 @@
+{
+  "domain": "notnavgengineer.is-really.cool",
+  "target": "notnavgengineer-portfolio.vercel.app",
+  "records": {
+    "CNAME": ["notnavgengineer-portfolio.vercel.app"],
+    "TXT": ["vc-domain-verify=notnavgengineer.is-really.cool,376dbf7e11c2b46e55f5"]
+  }
+}   
